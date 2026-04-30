@@ -2137,7 +2137,7 @@ const sidebars: SidebarsConfig = {
             'reference/icp/connect-runtime-mi',
             'reference/icp/observability-setup',
             'reference/icp/observability-setup-mi',
-            'reference/icp/manage-mi-artficats',
+            'reference/icp/manage-mi-artifacts',
             'reference/icp/deployment',
           ],
         },
